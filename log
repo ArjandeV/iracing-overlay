@@ -1,0 +1,619 @@
+2017-02-25 01:41:46     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:41:46     INFO: Settings file loaded
+2017-02-25 01:41:46     INFO: IRSDK connected
+2017-02-25 01:52:36     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:52:36     INFO: Settings file loaded
+2017-02-25 01:52:37     INFO: IRSDK connected
+2017-02-25 01:58:15     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:58:15     INFO: Settings file loaded
+2017-02-25 01:58:15     INFO: IRSDK connected
+2017-02-25 01:58:50     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:58:50     INFO: Settings file loaded
+2017-02-25 01:58:50     INFO: IRSDK connected
+2017-02-25 01:59:06     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:59:06     INFO: Settings file loaded
+2017-02-25 01:59:06     INFO: IRSDK connected
+2017-02-25 01:59:14     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:59:14     INFO: Settings file loaded
+2017-02-25 01:59:14     INFO: IRSDK connected
+2017-02-25 01:59:27     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:59:27     INFO: Settings file loaded
+2017-02-25 01:59:27     INFO: IRSDK connected
+2017-02-25 01:59:34     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:59:34     INFO: Settings file loaded
+2017-02-25 01:59:34     INFO: IRSDK connected
+2017-02-25 01:59:41     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:59:41     INFO: Settings file loaded
+2017-02-25 01:59:41     INFO: IRSDK connected
+2017-02-25 01:59:59     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:59:59     INFO: Settings file loaded
+2017-02-25 02:00:00     INFO: IRSDK connected
+2017-02-25 02:00:48     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:00:48     INFO: Settings file loaded
+2017-02-25 02:00:48     INFO: IRSDK connected
+2017-02-25 02:03:20     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:03:20     INFO: Settings file loaded
+2017-02-25 02:03:20     INFO: IRSDK connected
+2017-02-25 02:03:55     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:03:55     INFO: Settings file loaded
+2017-02-25 02:03:55     INFO: IRSDK connected
+2017-02-25 02:06:55     INFO: IRSDK disconnected
+2017-02-25 02:12:35     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:12:35     INFO: Settings file loaded
+2017-02-25 02:12:36     INFO: IRSDK connected
+2017-02-25 02:17:09     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:17:09     INFO: Settings file loaded
+2017-02-25 02:17:10     INFO: IRSDK connected
+2017-02-25 02:17:45     INFO: IRSDK disconnected
+2017-02-25 02:18:22     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:18:22     INFO: Settings file loaded
+2017-02-25 02:18:23     INFO: IRSDK connected
+2017-02-25 02:18:35     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:18:35     INFO: Settings file loaded
+2017-02-25 02:18:35     INFO: IRSDK connected
+2017-02-25 02:20:04     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:20:04     INFO: Settings file loaded
+2017-02-25 02:20:04     INFO: IRSDK connected
+2017-02-25 02:24:41     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:24:41     INFO: Settings file loaded
+2017-02-25 02:24:41     INFO: IRSDK connected
+2017-02-25 02:26:26     INFO: IRSDK disconnected
+2017-02-25 02:27:22     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:27:22     INFO: Settings file loaded
+2017-02-25 02:27:22     INFO: IRSDK connected
+2017-02-25 02:32:09     INFO: IRSDK disconnected
+2017-03-09 23:04:29     INFO: iRacing Text Overlay 1.0.1
+2017-03-09 23:04:29     INFO: Settings file loaded
+2017-03-09 23:04:29     INFO: IRSDK connected
+2017-03-11 12:17:18     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:17:18     INFO: Settings file loaded
+2017-03-11 12:17:19     INFO: IRSDK connected
+2017-03-11 12:17:38    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:20:04     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:20:04     INFO: Settings file loaded
+2017-03-11 12:20:04     INFO: IRSDK connected
+2017-03-11 12:20:16    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:35:51     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:35:51     INFO: Settings file loaded
+2017-03-11 12:35:51     INFO: IRSDK connected
+2017-03-11 12:36:02    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:36:37     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:36:37     INFO: Settings file loaded
+2017-03-11 12:36:38     INFO: IRSDK connected
+2017-03-11 12:36:48    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:37:06     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:37:06     INFO: Settings file loaded
+2017-03-11 12:37:06     INFO: IRSDK connected
+2017-03-11 12:37:15    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:37:37     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:37:37     INFO: Settings file loaded
+2017-03-11 12:37:38     INFO: IRSDK connected
+2017-03-11 12:37:48    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:38:24     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:38:24     INFO: Settings file loaded
+2017-03-11 12:38:24     INFO: IRSDK connected
+2017-03-11 12:38:33    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:40:35     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:40:35     INFO: Settings file loaded
+2017-03-11 12:40:35     INFO: IRSDK connected
+2017-03-11 12:41:14     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:41:14     INFO: Settings file loaded
+2017-03-11 12:41:14     INFO: IRSDK connected
+2017-03-11 12:41:55     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:41:55     INFO: Settings file loaded
+2017-03-11 12:41:55     INFO: IRSDK connected
+2017-03-11 12:42:46     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:42:46     INFO: Settings file loaded
+2017-03-11 12:42:46     INFO: IRSDK connected
+2017-03-11 12:45:17     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:45:17     INFO: Settings file loaded
+2017-03-11 12:45:17     INFO: IRSDK connected
+2017-03-11 12:45:49     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:45:49     INFO: Settings file loaded
+2017-03-11 12:45:49     INFO: IRSDK connected
+2017-03-11 12:46:44     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:46:44     INFO: Settings file loaded
+2017-03-11 12:46:44     INFO: IRSDK connected
+2017-03-11 12:46:54    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:47:08     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:47:08     INFO: Settings file loaded
+2017-03-11 12:47:08     INFO: IRSDK connected
+2017-03-11 12:47:17    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:47:48     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:47:48     INFO: Settings file loaded
+2017-03-11 12:47:48     INFO: IRSDK connected
+2017-03-11 12:49:15     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:49:15     INFO: Settings file loaded
+2017-03-11 12:49:15     INFO: IRSDK connected
+2017-03-11 12:50:57     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:50:57     INFO: Settings file loaded
+2017-03-11 12:50:57     INFO: IRSDK connected
+2017-03-11 12:52:42     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:52:42     INFO: Settings file loaded
+2017-03-11 12:52:42     INFO: IRSDK connected
+2017-03-11 12:53:17     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:53:17     INFO: Settings file loaded
+2017-03-11 12:53:17     INFO: IRSDK connected
+2017-03-11 12:54:14     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:54:14     INFO: Settings file loaded
+2017-03-11 12:54:14     INFO: IRSDK connected
+2017-03-11 12:54:34     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:54:34     INFO: Settings file loaded
+2017-03-11 12:54:34     INFO: IRSDK connected
+2017-03-11 12:55:01     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:55:01     INFO: Settings file loaded
+2017-03-11 12:55:01     INFO: IRSDK connected
+2017-03-11 12:57:54     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:57:54     INFO: Settings file loaded
+2017-03-11 12:57:55     INFO: IRSDK connected
+2017-03-11 12:58:10     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:58:10     INFO: Settings file loaded
+2017-03-11 12:58:10     INFO: IRSDK connected
+2017-03-11 12:58:42    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:58:44     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:58:44     INFO: Settings file loaded
+2017-03-11 12:58:44     INFO: IRSDK connected
+2017-03-11 12:58:50    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:59:13     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:59:13     INFO: Settings file loaded
+2017-03-11 12:59:14     INFO: IRSDK connected
+2017-03-11 12:59:25     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:59:25     INFO: Settings file loaded
+2017-03-11 12:59:25     INFO: IRSDK connected
+2017-03-11 12:59:30    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:59:35     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:59:35     INFO: Settings file loaded
+2017-03-11 12:59:35     INFO: IRSDK connected
+2017-03-11 12:59:45    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 12:59:50     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 12:59:50     INFO: Settings file loaded
+2017-03-11 12:59:51     INFO: IRSDK connected
+2017-03-11 12:59:59    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:00:31     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:00:31     INFO: Settings file loaded
+2017-03-11 13:00:31     INFO: IRSDK connected
+2017-03-11 13:00:58     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:00:58     INFO: Settings file loaded
+2017-03-11 13:00:59     INFO: IRSDK connected
+2017-03-11 13:01:04    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:01:12     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:01:12     INFO: Settings file loaded
+2017-03-11 13:01:12     INFO: IRSDK connected
+2017-03-11 13:01:30    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:01:39     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:01:39     INFO: Settings file loaded
+2017-03-11 13:01:39     INFO: IRSDK connected
+2017-03-11 13:01:44    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:01:54     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:01:54     INFO: Settings file loaded
+2017-03-11 13:01:55     INFO: IRSDK connected
+2017-03-11 13:02:07    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:02:40     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:02:40     INFO: Settings file loaded
+2017-03-11 13:02:40     INFO: IRSDK connected
+2017-03-11 13:03:17     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:03:17     INFO: Settings file loaded
+2017-03-11 13:03:17     INFO: IRSDK connected
+2017-03-11 13:03:48     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:03:48     INFO: Settings file loaded
+2017-03-11 13:03:48     INFO: IRSDK connected
+2017-03-11 13:05:03     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:05:03     INFO: Settings file loaded
+2017-03-11 13:05:03     INFO: IRSDK connected
+2017-03-11 13:05:16     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:05:16     INFO: Settings file loaded
+2017-03-11 13:05:16     INFO: IRSDK connected
+2017-03-11 13:05:20    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:05:25     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:05:25     INFO: Settings file loaded
+2017-03-11 13:05:25     INFO: IRSDK connected
+2017-03-11 13:06:27    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:06:59     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:06:59     INFO: Settings file loaded
+2017-03-11 13:06:59     INFO: IRSDK connected
+2017-03-11 13:07:42     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:07:42     INFO: Settings file loaded
+2017-03-11 13:07:42     INFO: IRSDK connected
+2017-03-11 13:08:14     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:08:14     INFO: Settings file loaded
+2017-03-11 13:08:15     INFO: IRSDK connected
+2017-03-11 13:08:37     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:08:37     INFO: Settings file loaded
+2017-03-11 13:08:37     INFO: IRSDK connected
+2017-03-11 13:08:52     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:08:52     INFO: Settings file loaded
+2017-03-11 13:08:52     INFO: IRSDK connected
+2017-03-11 13:09:07     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:09:07     INFO: Settings file loaded
+2017-03-11 13:09:07     INFO: IRSDK connected
+2017-03-11 13:09:24     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:09:24     INFO: Settings file loaded
+2017-03-11 13:09:24     INFO: IRSDK connected
+2017-03-11 13:09:28    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:09:35     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:09:35     INFO: Settings file loaded
+2017-03-11 13:09:35     INFO: IRSDK connected
+2017-03-11 13:10:00     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:10:00     INFO: Settings file loaded
+2017-03-11 13:10:00     INFO: IRSDK connected
+2017-03-11 13:10:25    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:12:42     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:12:42     INFO: Settings file loaded
+2017-03-11 13:12:42     INFO: IRSDK connected
+2017-03-11 13:13:59     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:13:59     INFO: Settings file loaded
+2017-03-11 13:13:59     INFO: IRSDK connected
+2017-03-11 13:14:45     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:14:45     INFO: Settings file loaded
+2017-03-11 13:14:45     INFO: IRSDK connected
+2017-03-11 13:15:50     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:15:50     INFO: Settings file loaded
+2017-03-11 13:15:50     INFO: IRSDK connected
+2017-03-11 13:16:04     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:16:04     INFO: Settings file loaded
+2017-03-11 13:16:04     INFO: IRSDK connected
+2017-03-11 13:16:14     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:16:14     INFO: Settings file loaded
+2017-03-11 13:16:14     INFO: IRSDK connected
+2017-03-11 13:16:33     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:16:33     INFO: Settings file loaded
+2017-03-11 13:16:33     INFO: IRSDK connected
+2017-03-11 13:18:01     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:18:01     INFO: Settings file loaded
+2017-03-11 13:18:01     INFO: IRSDK connected
+2017-03-11 13:18:19     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:18:19     INFO: Settings file loaded
+2017-03-11 13:18:19     INFO: IRSDK connected
+2017-03-11 13:20:28     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:20:28     INFO: Settings file loaded
+2017-03-11 13:20:28     INFO: IRSDK connected
+2017-03-11 13:26:41     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:26:41     INFO: Settings file loaded
+2017-03-11 13:26:42    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 384, in <module>
+    controlsWindow = ControlsWindow(ir, state)
+  File "C:\Users\Arjan\Downloads\ir-text-overlay\controls.py", line 130, in __init__
+    self.setup_cb.stateChanged.connect(self.toggleSetup)
+AttributeError: 'ControlsWindow' object has no attribute 'toggleSetup'
+2017-03-11 13:27:15     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:27:15     INFO: Settings file loaded
+2017-03-11 13:27:15     INFO: IRSDK connected
+2017-03-11 13:27:19    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:27:41     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:27:41     INFO: Settings file loaded
+2017-03-11 13:27:41     INFO: IRSDK connected
+2017-03-11 13:37:53     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:37:53     INFO: Settings file loaded
+2017-03-11 13:37:53     INFO: IRSDK connected
+2017-03-11 13:40:38     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:40:38     INFO: Settings file loaded
+2017-03-11 13:40:39     INFO: IRSDK connected
+2017-03-11 13:42:12     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:42:12     INFO: Settings file loaded
+2017-03-11 13:42:12     INFO: IRSDK connected
+2017-03-11 13:42:26    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:42:40     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:42:40     INFO: Settings file loaded
+2017-03-11 13:42:40     INFO: IRSDK connected
+2017-03-11 13:42:49    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:43:36     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:43:36     INFO: Settings file loaded
+2017-03-11 13:43:36     INFO: IRSDK connected
+2017-03-11 13:45:24     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:45:24     INFO: Settings file loaded
+2017-03-11 13:45:24     INFO: IRSDK connected
+2017-03-11 13:46:08     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:46:08     INFO: Settings file loaded
+2017-03-11 13:46:08     INFO: IRSDK connected
+2017-03-11 13:46:22     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:46:22     INFO: Settings file loaded
+2017-03-11 13:46:22     INFO: IRSDK connected
+2017-03-11 13:46:46     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:46:46     INFO: Settings file loaded
+2017-03-11 13:46:46     INFO: IRSDK connected
+2017-03-11 13:49:30     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:49:30     INFO: Settings file loaded
+2017-03-11 13:49:30     INFO: IRSDK connected
+2017-03-11 13:49:52    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:51:20     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:51:20     INFO: Settings file loaded
+2017-03-11 13:51:20     INFO: IRSDK connected
+2017-03-11 13:51:27    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:52:05     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:52:05     INFO: Settings file loaded
+2017-03-11 13:52:05     INFO: IRSDK connected
+2017-03-11 13:52:16    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:52:50     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:52:50     INFO: Settings file loaded
+2017-03-11 13:52:50     INFO: IRSDK connected
+2017-03-11 13:52:56    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:53:07     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:53:07     INFO: Settings file loaded
+2017-03-11 13:53:07     INFO: IRSDK connected
+2017-03-11 13:55:46     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:55:46     INFO: Settings file loaded
+2017-03-11 13:55:46     INFO: IRSDK connected
+2017-03-11 13:55:56    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-11 13:56:16     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:56:16     INFO: Settings file loaded
+2017-03-11 13:56:16     INFO: IRSDK connected
+2017-03-11 13:56:47     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:56:47     INFO: Settings file loaded
+2017-03-11 13:56:47     INFO: IRSDK connected
+2017-03-11 13:57:19     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 13:57:19     INFO: Settings file loaded
+2017-03-11 13:57:19     INFO: IRSDK connected
+2017-03-11 14:12:40     INFO: IRSDK disconnected
+2017-03-13 22:15:31     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:15:31     INFO: Settings file loaded
+2017-03-13 22:15:31     INFO: IRSDK connected
+2017-03-13 22:15:52    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:17:06     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:17:06     INFO: Settings file loaded
+2017-03-13 22:17:07     INFO: IRSDK connected
+2017-03-13 22:17:25    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:18:08     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:18:08     INFO: Settings file loaded
+2017-03-13 22:18:09     INFO: IRSDK connected
+2017-03-13 22:18:14    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:18:19     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:18:19     INFO: Settings file loaded
+2017-03-13 22:18:19     INFO: IRSDK connected
+2017-03-13 22:18:24    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:18:30     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:18:30     INFO: Settings file loaded
+2017-03-13 22:18:31     INFO: IRSDK connected
+2017-03-13 22:18:35    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:18:43     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:18:43     INFO: Settings file loaded
+2017-03-13 22:18:43     INFO: IRSDK connected
+2017-03-13 22:18:46    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:19:01     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:19:01     INFO: Settings file loaded
+2017-03-13 22:19:01     INFO: IRSDK connected
+2017-03-13 22:19:06    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:19:18     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:19:18     INFO: Settings file loaded
+2017-03-13 22:19:18     INFO: IRSDK connected
+2017-03-13 22:19:22    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:19:44     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:19:44     INFO: Settings file loaded
+2017-03-13 22:19:45     INFO: IRSDK connected
+2017-03-13 22:19:55    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:20:00     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:20:00     INFO: Settings file loaded
+2017-03-13 22:20:01     INFO: IRSDK connected
+2017-03-13 22:20:07    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:20:15     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:20:15     INFO: Settings file loaded
+2017-03-13 22:20:16     INFO: IRSDK connected
+2017-03-13 22:20:19    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:20:27     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:20:27     INFO: Settings file loaded
+2017-03-13 22:20:27     INFO: IRSDK connected
+2017-03-13 22:20:31    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:20:37     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:20:37     INFO: Settings file loaded
+2017-03-13 22:20:37     INFO: IRSDK connected
+2017-03-13 22:20:42    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:20:50     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:20:50     INFO: Settings file loaded
+2017-03-13 22:20:50     INFO: IRSDK connected
+2017-03-13 22:20:55    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:21:02     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:21:02     INFO: Settings file loaded
+2017-03-13 22:21:02     INFO: IRSDK connected
+2017-03-13 22:21:08    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:21:15     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:21:15     INFO: Settings file loaded
+2017-03-13 22:21:16     INFO: IRSDK connected
+2017-03-13 22:21:33     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:21:33     INFO: Settings file loaded
+2017-03-13 22:21:33     INFO: IRSDK connected
+2017-03-13 22:21:41    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:22:06     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:22:06     INFO: Settings file loaded
+2017-03-13 22:22:06     INFO: IRSDK connected
+2017-03-13 22:22:17    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+2017-03-13 22:22:30     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:22:30     INFO: Settings file loaded
+2017-03-13 22:22:31     INFO: IRSDK connected
+2017-03-13 22:25:17     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:25:17     INFO: Settings file loaded
+2017-03-13 22:25:17     INFO: IRSDK connected
+2017-03-13 22:26:33     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:26:33     INFO: Settings file loaded
+2017-03-13 22:26:33     INFO: IRSDK connected
+2017-03-13 22:26:48     INFO: iRacing Text Overlay 1.0.1
+2017-03-13 22:26:48     INFO: Settings file loaded
+2017-03-13 22:26:48     INFO: IRSDK connected
+2017-03-13 22:29:08     INFO: IRSDK disconnected

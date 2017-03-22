@@ -1,0 +1,19 @@
+2017-02-25 01:27:01     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:27:01     INFO: Settings file loaded
+2017-02-25 01:27:01     INFO: IRSDK connected
+2017-02-25 01:27:01    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 689, in <module>
+  File "stream.py", line 591, in main
+  File "C:\Python33\lib\site-packages\irsdk.py", line 235, in __getitem__
+AttributeError: 'NoneType' object has no attribute 'buf_offset'
+2017-03-17 20:42:39     INFO: iRacing Text Overlay 1.0.1
+2017-03-17 20:42:39     INFO: Settings file loaded
+2017-03-17 20:42:51     INFO: IRSDK connected
+2017-03-17 20:42:51    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 689, in <module>
+  File "stream.py", line 591, in main
+  File "C:\Python33\lib\site-packages\irsdk.py", line 235, in __getitem__
+    session_info_offset = IRSDKStruct.property_value(20, 'i')
+AttributeError: 'NoneType' object has no attribute 'buf_offset'

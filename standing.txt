@@ -1,0 +1,17 @@
+ Pos   #            Gap   Int
+   1   1 Woeger     LAP    15
+   2   3 Farrell    0.3   0.3
+►  3   6 Wood      16.0  15.6
+   4   5 Inglese   18.8   2.8
+   5   2 Matheson  23.1   4.4
+   6   9 Rajchel   77.2  54.0
+   7   4 Ketels    80.6   3.4
+   8   8 Thomson   85.2   4.7
+   9  12 Tamiya    93.2   8.0
+  10  10 Raspaldo    1L  23.0
+  11  16 mcMahon     1L  21.4
+  12  11 Belo        1L   0.2
+  13   7 Han         2L      
+  14  15 Foy         3L  80.3
+  15  13 Berggren    7L    4L
+  16  14 Alencar     7L  27.5

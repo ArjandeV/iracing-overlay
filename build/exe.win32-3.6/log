@@ -1,0 +1,64 @@
+2017-02-25 01:44:47     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:44:47     INFO: Settings file created
+2017-02-25 01:44:57     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:44:57     INFO: Settings file loaded
+2017-02-25 01:44:57     INFO: IRSDK connected
+2017-02-25 01:45:21     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:45:21     INFO: Settings file loaded
+2017-02-25 01:45:21     INFO: IRSDK connected
+2017-02-25 01:46:41     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:46:41     INFO: Settings file loaded
+2017-02-25 01:46:42     INFO: IRSDK connected
+2017-02-25 01:47:07     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 01:47:07     INFO: Settings file loaded
+2017-02-25 01:47:08     INFO: IRSDK connected
+2017-02-25 02:15:32     INFO: iRacing Text Overlay 1.0.1
+2017-02-25 02:15:32     INFO: Settings file loaded
+2017-02-25 02:15:33     INFO: IRSDK connected
+2017-03-09 22:06:39     INFO: iRacing Text Overlay 1.0.1
+2017-03-09 22:06:39     INFO: Settings file loaded
+2017-03-09 22:06:39    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 384, in <module>
+  File "C:\Users\Arjan\Downloads\ir-text-overlay\controls.py", line 98, in __init__
+    self.camerasWindow = CamerasWindow(ir, state)
+  File "C:\Users\Arjan\Downloads\ir-text-overlay\controls.py", line 24, in __init__
+    self.refresh_layout()
+  File "C:\Users\Arjan\Downloads\ir-text-overlay\controls.py", line 47, in refresh_layout
+    for group in self.ir['CameraInfo']['Groups']:
+  File "C:\Python36\lib\site-packages\irsdk.py", line 293, in __getitem__
+    if key in self._var_headers_dict:
+  File "C:\Python36\lib\site-packages\irsdk.py", line 436, in _var_headers_dict
+    for var_header in self._var_headers:
+  File "C:\Python36\lib\site-packages\irsdk.py", line 427, in _var_headers
+    for i in range(self._header.num_vars):
+AttributeError: 'NoneType' object has no attribute 'num_vars'
+2017-03-11 14:13:49     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 14:13:49     INFO: Settings file loaded
+2017-03-11 14:13:50    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 384, in <module>
+  File "C:\Users\Arjan\Downloads\ir-text-overlay\controls.py", line 98, in __init__
+    self.camerasWindow = CamerasWindow(ir, state)
+  File "C:\Users\Arjan\Downloads\ir-text-overlay\controls.py", line 24, in __init__
+    self.refresh_layout()
+  File "C:\Users\Arjan\Downloads\ir-text-overlay\controls.py", line 47, in refresh_layout
+    for group in self.ir['CameraInfo']['Groups']:
+  File "C:\Python36\lib\site-packages\irsdk.py", line 293, in __getitem__
+    if key in self._var_headers_dict:
+  File "C:\Python36\lib\site-packages\irsdk.py", line 436, in _var_headers_dict
+    for var_header in self._var_headers:
+  File "C:\Python36\lib\site-packages\irsdk.py", line 427, in _var_headers
+    for i in range(self._header.num_vars):
+AttributeError: 'NoneType' object has no attribute 'num_vars'
+2017-03-11 14:14:42     INFO: iRacing Text Overlay 1.0.1
+2017-03-11 14:14:42     INFO: Settings file loaded
+2017-03-11 14:14:43     INFO: IRSDK connected
+2017-03-11 14:15:11    ERROR: 
+Traceback (most recent call last):
+  File "stream.py", line 388, in <module>
+SystemExit: 0
+2017-03-17 20:43:01     INFO: iRacing Text Overlay 1.0.1
+2017-03-17 20:43:01     INFO: Settings file loaded
+2017-03-17 20:43:01     INFO: IRSDK connected
+2017-03-17 21:12:55     INFO: IRSDK disconnected
